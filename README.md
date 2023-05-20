@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadil Chatti</h1>
 <h3 align="center">A passionate Data Science from Tunisia</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django,ML, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1_yYFQR3OHm8kJpSAYzczqM4WYeH3CBod?usp=sharing](https://drive.google.com/drive/folders/1_yYFQR3OHm8kJpSAYzczqM4WYeH3CBod?usp=sharing)
 
